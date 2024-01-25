@@ -6,5 +6,8 @@ The Netflix Clone is designed ensuring an optimal viewing experience across vari
 
 ## Demo
 
-Explore the Netflix Clone by opening the following link in your browser: [Demo Link](https://blessy-b-sherin.github.io/Netflix-clone/)
+- **Explore in Browser:**  
+  Open the Netflix Clone in your browser: [Demo Link](https://blessy-b-sherin.github.io/Netflix-clone/)
 
+- **Video Demo:**  
+  Watch a quick video demonstration of the Netflix Clone: [Netflix Clone Demo](https://1drv.ms/v/s!Aud4KTNtZ7Z4tFehaT_ZYjv6hhA2)
